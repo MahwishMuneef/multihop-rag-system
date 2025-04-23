@@ -42,6 +42,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) pipeline for ans
 git clone https://github.com/MahwishMuneef/multihop-rag-system.git
 cd multihop-rag-system
 
+```
 ### 2. Create a virtual environment and install dependencies
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
