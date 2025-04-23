@@ -9,9 +9,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) pipeline for ans
 - **Evaluate performance using ROUGE metrics**
 
 ---
-
 ## 📂 Project Structure
-
 ```bash
 .
 ├── multihop.py          # Main multi-hop question answering script
@@ -21,9 +19,10 @@ This repository contains a Retrieval-Augmented Generation (RAG) pipeline for ans
 ├── .gitattributes       # Git LFS config (for PDFs)
 ├── .gitignore
 ├── README.md
-
+├── requirements.txt
 
 ---
+```
 
 ## ✅ Features
 
