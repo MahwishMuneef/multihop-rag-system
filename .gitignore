@@ -1,0 +1,23 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Ignore data or outputs
+*.log
+*.csv
+*.json
+*.db
+.DS_Store
+
+# Ignore Chroma DB and other heavy artifacts
+chroma_db/
+*.sqlite3
+*.bin
+
